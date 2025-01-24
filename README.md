@@ -10,26 +10,23 @@
         <p><strong>Administración y Sistemas</strong></p>
         <p>Teléfono: +51 991304464</p>
         <p>Correo electrónico: <a href="mailto:josselynmongevivanco@gmail.com">josselynmongevivanco@gmail.com</a></p>
-        <p>LinkedIn</p>
+        <p><a href="https://www.linkedin.com/in/josselynmonge/" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
         <p>Ubicación: Lima, Perú</p>
     </header>
     <section>
         <h2>Perfil Profesional</h2>
         <p>Egresada en Administración y Sistemas con interés en el aseguramiento de la calidad (QA) y desarrollo de software. Cuento con experiencia en la gestión de sistemas de información y en el análisis y diseño de soluciones tecnológicas. Estoy orientada a la calidad, con conocimientos en testing, programación y metodologías ágiles, y tengo la capacidad de aprender rápidamente y adaptarme a nuevos entornos. Busco contribuir al desarrollo de productos tecnológicos innovadores y optimizar procesos empresariales.</p>
     </section>
-
     <section>
         <h2>Objetivo Profesional</h2>
         <p>Desempeñarme como Practicante Profesional en QA en NTT DATA, aplicando mis conocimientos en testing, bases de datos y metodologías de desarrollo para contribuir al aseguramiento de la calidad en proyectos tecnológicos de alto impacto. Aspiro a crecer profesionalmente mientras aporto al cumplimiento de los objetivos de la empresa.</p>
     </section>
-
     <section>
         <h2>Educación</h2>
         <p><strong>Administración y Sistemas</strong><br>
         CIBERTEC, Lima, Perú<br>
         Enero 2015 – Diciembre 2021</p>
     </section>
-
     <section>
         <h2>Experiencia Profesional</h2>
         <article>
@@ -63,7 +60,6 @@
             </ul>
         </article>
     </section>
-
     <section>
         <h2>Proyectos Académicos Destacados</h2>
         <ul>
@@ -84,7 +80,6 @@
             </li>
         </ul>
     </section>
-
     <section>
         <h2>Habilidades Técnicas</h2>
         <ul>
@@ -97,7 +92,6 @@
             <li>Familiaridad con metodologías ágiles (Scrum).</li>
         </ul>
     </section>
-
     <section>
         <h2>Habilidades Blandas</h2>
         <ul>
@@ -107,7 +101,6 @@
             <li>Trabajo en equipo y disposición para aprender de manera continua.</li>
         </ul>
     </section>
-
     <section>
         <h2>Idiomas</h2>
         <ul>
@@ -115,7 +108,6 @@
             <li>Portugués: Intermedio.</li>
         </ul>
     </section>
-
     <section>
         <h2>Hobbies</h2>
         <p>Apasionada por la ilustración digital, utilizo mi creatividad para explorar técnicas artísticas, lo que complementa mi capacidad de innovación y atención al detalle.</p>
