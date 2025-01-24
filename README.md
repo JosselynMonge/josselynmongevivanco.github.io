@@ -109,7 +109,7 @@
         </ul>
     </section>
     <section>
-        <h2>Hobbies</h2>
+        <h2>Intereses</h2>
         <p>Apasionada por la ilustración digital, utilizo mi creatividad para explorar técnicas artísticas, lo que complementa mi capacidad de innovación y atención al detalle.</p>
     </section>
 </body>
