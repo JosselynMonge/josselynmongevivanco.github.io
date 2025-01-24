@@ -13,7 +13,6 @@
         <p>LinkedIn</p>
         <p>Ubicación: Lima, Perú</p>
     </header>
-
     <section>
         <h2>Perfil Profesional</h2>
         <p>Egresada en Administración y Sistemas con interés en el aseguramiento de la calidad (QA) y desarrollo de software. Cuento con experiencia en la gestión de sistemas de información y en el análisis y diseño de soluciones tecnológicas. Estoy orientada a la calidad, con conocimientos en testing, programación y metodologías ágiles, y tengo la capacidad de aprender rápidamente y adaptarme a nuevos entornos. Busco contribuir al desarrollo de productos tecnológicos innovadores y optimizar procesos empresariales.</p>
